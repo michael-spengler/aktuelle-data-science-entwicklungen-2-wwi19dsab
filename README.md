@@ -51,3 +51,8 @@ Nutzen Sie [Gamestorming](https://gamestorming.com/) um mögliche Projektideen z
 Erstellen Sie ein [Value Proposition Canvas](https://www.youtube.com/watch?v=ReM1uqmVfP0) für Ihre Projektidee  
 Definieren Sie User Stories für Ihre Projektidee  
 Implementieren Sie einen Prototyp  
+
+--- 
+
+## Telegram Community
+Hier geht's zur [Telegram Community](https://t.me/+8suHHi_37BJlNzdi)
