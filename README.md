@@ -10,7 +10,7 @@ Portfolioarbeit
 Differentiate Artificial Intelligence / Machine Learning / Deep Learning   
 Differentiate use cases for algorithmic solutions vs. use cases for model based solutions   
 Explain [Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ) in your own words    
-Create a Quiz on Neural Networks (inputs, weights, non-linearity, activation functions ...)  
+Create a Quiz on Deep Learning & Neural Networks (inputs, weights, non-linearity, activation functions, hyper parameters, bias, overfitting, underfitting)   
 Differentiate supervised learning vs. unsupervised learning  
 Share typical data sources for deep learning     
 Explore [kaggle.com](https://www.kaggle.com/)   
@@ -38,6 +38,11 @@ You might check [introtodeeplearning.com](http://introtodeeplearning.com/) and [
 
 ### Forward Propagation
 ![Screenshot 2022-03-24 at 12 02 56](https://user-images.githubusercontent.com/43786652/159904098-259cb379-0f0a-487c-afa0-87f4e8c383f8.png)
+
+--- 
+
+### Introduce Non-Linearity to Approximate Arbitrarily Complex Functions
+![Screenshot 2022-03-24 at 12 30 31](https://user-images.githubusercontent.com/43786652/159907416-1d22a0fb-0ee2-4c93-a427-a6a65b7d3456.png)
 
 --- 
 
