@@ -12,6 +12,7 @@ Share typical data sources for deep learning
 Explore [kaggle.com](https://www.kaggle.com/)   
 Implement a web harvesting solution - e.g. leveraging test frame works like [codecept.io](https://codecept.io/)   
 Present and describe your favorite Deep Learning Project - e.g. [Deep Learning for Protein Folding](https://www.youtube.com/watch?v=1YHsSFWn5OA) or [Deep Learning for Games](https://www.nature.com/articles/nature16961)    
+Explore distributed data storage... solutions like [ipfs.io](https://ipfs.io), [arweave.org](https://arweave.org), the Ethereum Blockchain etc.   
 
 ## Diagrams
 You might check [introtodeeplearning.com](http://introtodeeplearning.com/) and [this presentation](https://www.youtube.com/watch?v=7sB052Pz0sQ) to find answers related to the following diagrams.
@@ -56,3 +57,8 @@ Implementieren Sie einen Prototyp
 
 ## Telegram Community
 Hier geht's zur [Telegram Community](https://t.me/+8suHHi_37BJlNzdi)
+
+## Organizational
+https://calendar.google.com/calendar/u/0/embed?src=okqgsstebeckofvtnfaoa740os@group.calendar.google.com&ctz=Europe/Berlin
+
+https://moodle.dhbw-mannheim.de/course/view.php?id=5175 
