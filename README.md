@@ -3,6 +3,8 @@
 09.05.2022 - 29.07.2022
 
 ## Key Topics 
+Explore distributed data storage... solutions like [ipfs.io](https://ipfs.io), [arweave.org](https://arweave.org), the Ethereum Blockchain etc.   
+Implement a web harvesting solution - e.g. leveraging test frame works like [codecept.io](https://codecept.io/)   
 Differentiate Artificial Intelligence / Machine Learning / Deep Learning   
 Differentiate use cases for algorithmic solutions vs. use cases for model based solutions   
 Explain [Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ) in your own words    
@@ -10,9 +12,8 @@ Create a Quiz (e.g. using [xwords-generator](https://www.xwords-generator.de/en)
 Differentiate supervised learning vs. unsupervised learning vs. reinforcement learning   
 Share typical data sources for deep learning     
 Explore [kaggle.com](https://www.kaggle.com/)   
-Implement a web harvesting solution - e.g. leveraging test frame works like [codecept.io](https://codecept.io/)   
 Present and describe your favorite Deep Learning Project - e.g. [Deep Learning for Protein Folding](https://www.youtube.com/watch?v=1YHsSFWn5OA) or [Deep Learning for Games](https://www.nature.com/articles/nature16961)    
-Explore distributed data storage... solutions like [ipfs.io](https://ipfs.io), [arweave.org](https://arweave.org), the Ethereum Blockchain etc.   
+
 
 ## Diagrams
 You might check [introtodeeplearning.com](http://introtodeeplearning.com/) and [this presentation](https://www.youtube.com/watch?v=7sB052Pz0sQ) to find answers related to the following diagrams.
