@@ -1,12 +1,12 @@
 # Aktuelle Data Science Entwicklungen II
 
 ## Termine
-Dienstag, 10.05.2022 von 15:00 – 18:00 Uhr – online
-Dienstag, 17.05.2022 von 15:00 – 18:00 Uhr – online
-Dienstag, 24.05.2022 von 15:00 – 18:00 Uhr – online
-Dienstag, 07.06.2022 von 15:00 – 18:00 Uhr – online
-Dienstag, 14.06.2022 von 15:00 – 18:00 Uhr – online
-Dienstag, 21.06.2022 von 15:00 – 18:00 Uhr – online
+Dienstag, 10.05.2022 von 15:00 – 18:00 Uhr – online  
+Dienstag, 17.05.2022 von 15:00 – 18:00 Uhr – online  
+Dienstag, 24.05.2022 von 15:00 – 18:00 Uhr – online  
+Dienstag, 07.06.2022 von 15:00 – 18:00 Uhr – online  
+Dienstag, 14.06.2022 von 15:00 – 18:00 Uhr – online  
+Dienstag, 21.06.2022 von 15:00 – 18:00 Uhr – online  
 
 ## Key Topics 
 Explore distributed data storage... solutions like [ipfs.io](https://ipfs.io), [arweave.org](https://arweave.org), the Ethereum Blockchain etc.   
