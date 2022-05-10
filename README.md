@@ -60,6 +60,9 @@ Erstellen Sie ein [Value Proposition Canvas](https://www.youtube.com/watch?v=ReM
 Definieren Sie User Stories für Ihre Projektidee  
 Implementieren Sie einen Prototyp  
 
+### Vorgeschlagene Gruppengröße
+3-5 (begründete Ausnahmen denkbar)
+
 --- 
 
 ## Telegram Community
