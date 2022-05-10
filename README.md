@@ -70,9 +70,12 @@ Separation of Concerns im Code (kein Spaghetticode)
 High Cohesion & Loose Coupling (Design for Flexibility)   
 Klares, durchdachtes & strukturiertes Konzept   
 Use-Case / Purpose? --> Professionelles Requirements Engineering z.B. via User Stories, [VPC](https://www.youtube.com/watch?v=ReM1uqmVfP0&t=3s)   
-Klare & wertvolle Readme für Besucher
+Klare & wertvolle Readme für Besucher   
+Im Code lediglich dokumentieren warum etwas passiert - was passiert soll durch sprechende Methoden-... Namen klar sein  
 
-
+### Abgabe
+Referate: Bis zur letzten Vorlesungseinheit sollten alle ihr (Gruppen-) Referat gehalten haben.  
+Projekte: Zwei Wochen nach der letzten Klausur.   
 
 --- 
 
