@@ -63,6 +63,17 @@ Implementieren Sie einen Prototyp
 ### Vorgeschlagene Gruppengröße
 3-5 (begründete Ausnahmen denkbar)
 
+### Bewertungskriterien (Zwischenfeedbacks)  
+Scope / Umfang (passend zur Gruppengröße?)  
+Projekt funktioniert? Komponenten daraus funktionieren? Learnings wurden dokumentiert.  
+Separation of Concerns im Code (kein Spaghetticode)   
+High Cohesion & Loose Coupling (Design for Flexibility)   
+Klares, durchdachtes & strukturiertes Konzept   
+Use-Case / Purpose? --> Professionelles Requirements Engineering z.B. via User Stories, [VPC](https://www.youtube.com/watch?v=ReM1uqmVfP0&t=3s)   
+Klare & wertvolle Readme für Besucher
+
+
+
 --- 
 
 ## Telegram Community
