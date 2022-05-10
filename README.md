@@ -77,7 +77,13 @@ Im Code lediglich dokumentieren warum etwas passiert - was passiert soll durch s
 Referate: Bis zur letzten Vorlesungseinheit sollten alle ihr (Gruppen-) Referat gehalten haben.  
 Projekte: Zwei Wochen nach der letzten Klausur.   
 
+## Vorlesungsgestaltung
+Theorie in den ersten (mindestens) 30 mins + optional Referate danach viel team work....
+
+
+
 --- 
+
 
 ## Telegram Community
 Hier geht's zur [Telegram Community](https://t.me/+8suHHi_37BJlNzdi)
