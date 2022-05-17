@@ -64,7 +64,7 @@ Implementieren Sie einen Prototyp
 3-5 (begründete Ausnahmen denkbar)
 
 ### Bewertungskriterien (Zwischenfeedbacks)  
-Scope / Umfang (passend zur Gruppengröße?)  
+Scope / Umfang (passend zur Gruppengröße? / Zwischenfeedbacks können dabei helfen den Scope passend einzuschätzen)  
 Projekt funktioniert? Komponenten daraus funktionieren? Learnings wurden dokumentiert.  
 Separation of Concerns im Code (kein Spaghetticode)   
 High Cohesion & Loose Coupling (Design for Flexibility)   
