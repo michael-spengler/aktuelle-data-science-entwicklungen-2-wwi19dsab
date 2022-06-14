@@ -77,6 +77,10 @@ Im Code lediglich dokumentieren warum etwas passiert - was passiert soll durch s
 Referate: Bis zur letzten Vorlesungseinheit sollten alle ihr (Gruppen-) Referat gehalten haben.  
 Projekte: Zwei Wochen nach der letzten Klausur.   
 
+## Empfehlungssysteme
+![Screenshot 2022-06-14 at 16 45 12](https://user-images.githubusercontent.com/43786652/173606865-c587ecff-975d-40f3-842f-c4f9a1cf7890.png)
+
+
 ## Vorlesungsgestaltung
 Theorie in den ersten (mindestens) 30 mins + optional Referate danach viel team work....
 
