@@ -1,8 +1,9 @@
-[cover](https://user-images.githubusercontent.com/46084416/168815437-488b523e-f27f-4f10-acb0-2563fc022376.png)
+![cover](logo.png)
 
 <br>
+Theorie: Lernverfahren im Machine Learning mit Fokus auf Reinforcement Learning.
 
-Lernverfahren im Machine Learning mit Fokus auf Reinforcement Learning.
+Praxis: Prototypische optimierung des Schienenverkehrs mittels Reinforcement Learning.
 
 ## Team
 - [Ayman Madhour](https://github.com/Madhour)
