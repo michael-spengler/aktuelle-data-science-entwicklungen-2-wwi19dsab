@@ -6,9 +6,9 @@ Bastian Wildmann, Timotheus Stark, Lisa Schueler
 
 ## Highlights
 Klarer Use Case
-Super Professionelle Eurer Data Science Skills
+Super Professionelle Nutzung Eurer Data Science Skills
 
 ## Gut mit Optimierungspotential
+Keine Aspekte aufgefallen --> Commithistorie checken
 
-## Spontane Tendenz
  
