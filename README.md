@@ -48,6 +48,10 @@ You might check [introtodeeplearning.com](http://introtodeeplearning.com/) and [
 ![Screenshot 2022-03-24 at 12 11 31](https://user-images.githubusercontent.com/43786652/159904375-a20670e8-9234-4bf9-a48f-92c75ef3f9ff.png)
 
 
+## Presentations
+### Machine Learning - Focus on Reinforcement Learning
+"On-Time" Group [Presentation](https://github.com/michael-spengler/aktuelle-data-science-entwicklungen-2-wwi19dsab/blob/main/OnTime/Reinforcement%20Learning%20Vorlesung.pdf) 
+
 --- 
 
 ## Prüfungsleistung
